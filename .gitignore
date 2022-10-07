@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+/logs/
+
+# deep learning stuff
+MNIST/
+PetImages/
+training_data.npy
+fire_dataset/
+dataset/
